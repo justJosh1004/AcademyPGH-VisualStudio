@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Group Work\Group Work\bin\Debug\Group Work.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Group Work\Group Work\bin\Debug\Group Work.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Group Work\Group Work\bin\Debug\Group Work.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Group Work\Group Work\obj\Debug\Group Work.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Group Work\Group Work\obj\Debug\Group Work.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Group Work\Group Work\obj\Debug\Group Work.pdb

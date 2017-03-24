@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Album Collection\Album Collection\bin\Debug\Album Collection.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Album Collection\Album Collection\bin\Debug\Album Collection.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Album Collection\Album Collection\bin\Debug\Album Collection.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Album Collection\Album Collection\obj\Debug\Album Collection.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Album Collection\Album Collection\obj\Debug\Album Collection.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Album Collection\Album Collection\obj\Debug\Album Collection.pdb

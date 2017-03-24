@@ -1,0 +1,6 @@
+c:\users\whitneyw\documents\visual studio 2015\Projects\Beginning Programming\Beginning Programming\bin\Debug\Beginning Programming.exe.config
+c:\users\whitneyw\documents\visual studio 2015\Projects\Beginning Programming\Beginning Programming\obj\Debug\Beginning Programming.csprojResolveAssemblyReference.cache
+c:\users\whitneyw\documents\visual studio 2015\Projects\Beginning Programming\Beginning Programming\bin\Debug\Beginning Programming.exe
+c:\users\whitneyw\documents\visual studio 2015\Projects\Beginning Programming\Beginning Programming\bin\Debug\Beginning Programming.pdb
+c:\users\whitneyw\documents\visual studio 2015\Projects\Beginning Programming\Beginning Programming\obj\Debug\Beginning Programming.exe
+c:\users\whitneyw\documents\visual studio 2015\Projects\Beginning Programming\Beginning Programming\obj\Debug\Beginning Programming.pdb

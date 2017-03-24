@@ -1,0 +1,6 @@
+c:\users\whitneyw\documents\visual studio 2015\Projects\Cash Register\Group Exercise\bin\Debug\Group Exercise.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Cash Register\Group Exercise\obj\Debug\Group Exercise.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Cash Register\Group Exercise\bin\Debug\Group Exercise.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Cash Register\Group Exercise\bin\Debug\Group Exercise.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Cash Register\Group Exercise\obj\Debug\Group Exercise.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Cash Register\Group Exercise\obj\Debug\Group Exercise.pdb

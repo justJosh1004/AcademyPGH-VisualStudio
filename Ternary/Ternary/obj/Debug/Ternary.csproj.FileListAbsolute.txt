@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Ternary\Ternary\bin\Debug\Ternary.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Ternary\Ternary\obj\Debug\Ternary.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Ternary\Ternary\bin\Debug\Ternary.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Ternary\Ternary\bin\Debug\Ternary.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Ternary\Ternary\obj\Debug\Ternary.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Ternary\Ternary\obj\Debug\Ternary.pdb

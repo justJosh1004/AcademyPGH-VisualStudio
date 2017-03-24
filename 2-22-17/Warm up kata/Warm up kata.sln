@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warm up kata", "Warm up kata\Warm up kata.csproj", "{027AF905-4F07-421E-948B-23D66B5D9779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027AF905-4F07-421E-948B-23D66B5D9779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027AF905-4F07-421E-948B-23D66B5D9779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027AF905-4F07-421E-948B-23D66B5D9779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027AF905-4F07-421E-948B-23D66B5D9779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

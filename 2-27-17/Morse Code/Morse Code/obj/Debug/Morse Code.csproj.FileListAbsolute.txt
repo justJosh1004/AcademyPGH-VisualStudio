@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-27-17\Morse Code\Morse Code\bin\Debug\Morse Code.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-27-17\Morse Code\Morse Code\bin\Debug\Morse Code.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-27-17\Morse Code\Morse Code\bin\Debug\Morse Code.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-27-17\Morse Code\Morse Code\obj\Debug\Morse Code.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-27-17\Morse Code\Morse Code\obj\Debug\Morse Code.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-27-17\Morse Code\Morse Code\obj\Debug\Morse Code.pdb

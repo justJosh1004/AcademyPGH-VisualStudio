@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encryption Group\bin\Debug\Encryption Group.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encryption Group\bin\Debug\Encryption Group.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encryption Group\bin\Debug\Encryption Group.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encryption Group\obj\Debug\Encryption Group.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encryption Group\obj\Debug\Encryption Group.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encryption Group\obj\Debug\Encryption Group.csprojResolveAssemblyReference.cache

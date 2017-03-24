@@ -1,0 +1,5 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Warm up kata\Warm up kata\bin\Debug\Warm up kata.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Warm up kata\Warm up kata\bin\Debug\Warm up kata.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Warm up kata\Warm up kata\bin\Debug\Warm up kata.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Warm up kata\Warm up kata\obj\Debug\Warm up kata.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Warm up kata\Warm up kata\obj\Debug\Warm up kata.pdb

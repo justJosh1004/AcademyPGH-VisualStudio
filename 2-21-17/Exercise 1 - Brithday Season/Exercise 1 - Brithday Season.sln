@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1 - Brithday Season", "Exercise 1 - Brithday Season\Exercise 1 - Brithday Season.csproj", "{E1B5F1C5-E577-4B6A-A728-5D937A3C29FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Season with CASE", "Birthday Season with CASE\Birthday Season with CASE.csproj", "{0930EA0F-401D-42E4-B951-C0BB1EC69A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B5F1C5-E577-4B6A-A728-5D937A3C29FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B5F1C5-E577-4B6A-A728-5D937A3C29FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B5F1C5-E577-4B6A-A728-5D937A3C29FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B5F1C5-E577-4B6A-A728-5D937A3C29FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0930EA0F-401D-42E4-B951-C0BB1EC69A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0930EA0F-401D-42E4-B951-C0BB1EC69A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0930EA0F-401D-42E4-B951-C0BB1EC69A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0930EA0F-401D-42E4-B951-C0BB1EC69A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

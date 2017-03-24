@@ -1,0 +1,8 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\bin\Debug\AlbumDatabase.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\bin\Debug\Database1.mdf
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\bin\Debug\Database1_log.ldf
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\bin\Debug\AlbumDatabase.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\bin\Debug\AlbumDatabase.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\obj\Debug\AlbumDatabase.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\obj\Debug\AlbumDatabase.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\AlbumDatabase\AlbumDatabase\obj\Debug\AlbumDatabase.pdb

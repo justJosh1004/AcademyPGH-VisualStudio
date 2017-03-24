@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-23-17\Number Sort\Number Sort\bin\Debug\Number Sort.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-23-17\Number Sort\Number Sort\bin\Debug\Number Sort.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-23-17\Number Sort\Number Sort\bin\Debug\Number Sort.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-23-17\Number Sort\Number Sort\obj\Debug\Number Sort.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-23-17\Number Sort\Number Sort\obj\Debug\Number Sort.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-23-17\Number Sort\Number Sort\obj\Debug\Number Sort.pdb

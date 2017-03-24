@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Conways Game of Life\Class Solution\bin\Debug\Class Solution.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Conways Game of Life\Class Solution\bin\Debug\Class Solution.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Conways Game of Life\Class Solution\bin\Debug\Class Solution.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Conways Game of Life\Class Solution\obj\Debug\Class Solution.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Conways Game of Life\Class Solution\obj\Debug\Class Solution.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Conways Game of Life\Class Solution\obj\Debug\Class Solution.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Battleship with functions\bin\Debug\Battleship with functions.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Battleship with functions\obj\Debug\Battleship with functions.csprojResolveAssemblyReference.cache

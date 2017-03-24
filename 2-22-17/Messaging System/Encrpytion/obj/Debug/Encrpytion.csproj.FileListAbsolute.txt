@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encrpytion\bin\Debug\Encrpytion.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encrpytion\bin\Debug\Encrpytion.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encrpytion\bin\Debug\Encrpytion.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encrpytion\obj\Debug\Encrpytion.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encrpytion\obj\Debug\Encrpytion.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Encrpytion\obj\Debug\Encrpytion.pdb

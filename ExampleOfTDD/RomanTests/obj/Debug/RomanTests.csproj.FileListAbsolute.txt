@@ -1,0 +1,8 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\bin\Debug\RomanTests.dll
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\bin\Debug\RomanTests.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\obj\Debug\RomanTests.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\obj\Debug\RomanTests.dll
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\obj\Debug\RomanTests.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\bin\Debug\RomanNumeralsClass.dll
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\ExampleOfTDD\RomanTests\bin\Debug\RomanNumeralsClass.pdb

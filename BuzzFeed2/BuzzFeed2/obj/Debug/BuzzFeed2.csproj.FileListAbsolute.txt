@@ -1,0 +1,8 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\bin\Debug\BuzzFeed2.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\bin\Debug\Database1.mdf
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\bin\Debug\Database1_log.ldf
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\bin\Debug\BuzzFeed2.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\bin\Debug\BuzzFeed2.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\obj\Debug\BuzzFeed2.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\obj\Debug\BuzzFeed2.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed2\BuzzFeed2\obj\Debug\BuzzFeed2.pdb

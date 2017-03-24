@@ -1,0 +1,8 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\bin\Debug\Session3Database1.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\bin\Debug\Database1.mdf
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\bin\Debug\Database1_log.ldf
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\bin\Debug\Session3Database1.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\bin\Debug\Session3Database1.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\obj\Debug\Session3Database1.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\obj\Debug\Session3Database1.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Session3Database1\Session3Database1\obj\Debug\Session3Database1.pdb

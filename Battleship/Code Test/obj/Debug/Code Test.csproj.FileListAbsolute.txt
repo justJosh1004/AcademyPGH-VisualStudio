@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Code Test\bin\Debug\Code Test.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Code Test\bin\Debug\Code Test.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Code Test\bin\Debug\Code Test.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Code Test\obj\Debug\Code Test.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Code Test\obj\Debug\Code Test.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\Code Test\obj\Debug\Code Test.pdb

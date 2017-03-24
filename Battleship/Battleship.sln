@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleship", "Battleship\Battleship.csproj", "{17357E41-9504-4ED1-8D80-728B413050AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleship 2", "Battleship 2\Battleship 2.csproj", "{8D138716-5439-43A9-B125-20490613D1D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleship with grid as a string instead of int", "Battleship with grid as a string instead of int\Battleship with grid as a string instead of int.csproj", "{4FCFAC7F-21AF-4B12-85F1-3BF51130C647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "with random ships", "with random ships\with random ships.csproj", "{1245110E-4568-4A23-8723-0D88400A6AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Different Size Ships", "Different Size Ships\Different Size Ships.csproj", "{CF928175-EBC2-4288-B0C2-176B125B0B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Test", "Code Test\Code Test.csproj", "{B8304B94-5834-4A0C-8AC9-9333E747396F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17357E41-9504-4ED1-8D80-728B413050AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17357E41-9504-4ED1-8D80-728B413050AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17357E41-9504-4ED1-8D80-728B413050AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17357E41-9504-4ED1-8D80-728B413050AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D138716-5439-43A9-B125-20490613D1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D138716-5439-43A9-B125-20490613D1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D138716-5439-43A9-B125-20490613D1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D138716-5439-43A9-B125-20490613D1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCFAC7F-21AF-4B12-85F1-3BF51130C647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCFAC7F-21AF-4B12-85F1-3BF51130C647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCFAC7F-21AF-4B12-85F1-3BF51130C647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCFAC7F-21AF-4B12-85F1-3BF51130C647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1245110E-4568-4A23-8723-0D88400A6AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1245110E-4568-4A23-8723-0D88400A6AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1245110E-4568-4A23-8723-0D88400A6AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1245110E-4568-4A23-8723-0D88400A6AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF928175-EBC2-4288-B0C2-176B125B0B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF928175-EBC2-4288-B0C2-176B125B0B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF928175-EBC2-4288-B0C2-176B125B0B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF928175-EBC2-4288-B0C2-176B125B0B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8304B94-5834-4A0C-8AC9-9333E747396F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8304B94-5834-4A0C-8AC9-9333E747396F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8304B94-5834-4A0C-8AC9-9333E747396F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8304B94-5834-4A0C-8AC9-9333E747396F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

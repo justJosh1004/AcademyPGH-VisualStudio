@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Field Painting\Field Painting\bin\Debug\Field Painting.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Field Painting\Field Painting\bin\Debug\Field Painting.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Field Painting\Field Painting\bin\Debug\Field Painting.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Field Painting\Field Painting\obj\Debug\Field Painting.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Field Painting\Field Painting\obj\Debug\Field Painting.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Field Painting\Field Painting\obj\Debug\Field Painting.pdb

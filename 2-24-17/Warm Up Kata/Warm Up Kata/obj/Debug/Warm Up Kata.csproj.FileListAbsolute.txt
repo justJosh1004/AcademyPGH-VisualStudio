@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-24-17\Warm Up Kata\Warm Up Kata\bin\Debug\Warm Up Kata.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-24-17\Warm Up Kata\Warm Up Kata\bin\Debug\Warm Up Kata.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-24-17\Warm Up Kata\Warm Up Kata\bin\Debug\Warm Up Kata.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-24-17\Warm Up Kata\Warm Up Kata\obj\Debug\Warm Up Kata.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-24-17\Warm Up Kata\Warm Up Kata\obj\Debug\Warm Up Kata.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-24-17\Warm Up Kata\Warm Up Kata\obj\Debug\Warm Up Kata.pdb

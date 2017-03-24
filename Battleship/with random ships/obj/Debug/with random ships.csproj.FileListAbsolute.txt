@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\with random ships\bin\Debug\with random ships.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\with random ships\bin\Debug\with random ships.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\with random ships\bin\Debug\with random ships.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\with random ships\obj\Debug\with random ships.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\with random ships\obj\Debug\with random ships.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\Battleship\with random ships\obj\Debug\with random ships.csprojResolveAssemblyReference.cache

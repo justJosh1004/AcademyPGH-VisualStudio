@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Classes Lesson\Classes Lesson\bin\Debug\Classes Lesson.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Classes Lesson\Classes Lesson\bin\Debug\Classes Lesson.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Classes Lesson\Classes Lesson\bin\Debug\Classes Lesson.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Classes Lesson\Classes Lesson\obj\Debug\Classes Lesson.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Classes Lesson\Classes Lesson\obj\Debug\Classes Lesson.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\3-1-17\Classes Lesson\Classes Lesson\obj\Debug\Classes Lesson.pdb

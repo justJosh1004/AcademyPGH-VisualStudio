@@ -1,0 +1,6 @@
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Messaging System\bin\Debug\Messaging System.exe.config
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Messaging System\bin\Debug\Messaging System.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Messaging System\bin\Debug\Messaging System.pdb
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Messaging System\obj\Debug\Messaging System.csprojResolveAssemblyReference.cache
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Messaging System\obj\Debug\Messaging System.exe
+C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\2-22-17\Messaging System\Messaging System\obj\Debug\Messaging System.pdb
