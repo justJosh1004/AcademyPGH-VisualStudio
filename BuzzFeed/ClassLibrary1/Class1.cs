@@ -11,16 +11,19 @@ namespace ClassLibrary1
     {
         SqlCommand command;
         SqlDataReader reader;
-        
-        public void makeNewUser(string newUserName)
+
+        public int makeNewUser(string newUserName)
         {
             SqlConnection connection = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed\ClassLibrary1\Database1.mdf");
             connection.Open();
 
-            command = new SqlCommand($"INSERT INTO users (Name) VALUES ('{newUserName}')", connection);
+            command = new SqlCommand($"INSERT INTO users (Name) VALUES ('{newUserName}'); SELECT @@Identity AS id", connection);
             command.ExecuteNonQuery();
 
+            int user_id = Convert.ToInt32(reader["id"]);
             connection.Close();
+
+            return user_id;
         }//END OF makeNewUser
         
         public void displayUsers()
@@ -42,13 +45,23 @@ namespace ClassLibrary1
             reader.Close();
             connection.Close();
         }//END OF displayUsers
-
-        public void pickUser(int userNumber)
+        
+        public int pickUser(int userNumber)
         {
             SqlConnection connection = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed\ClassLibrary1\Database1.mdf");
             connection.Open();
 
-            command = new SqlCommand($"SELECT Name FROM Users WHERE id = {userNumber}");
+            command = new SqlCommand($"SELECT * FROM Users", connection);
+            reader = command.ExecuteReader();
+
+            Console.WriteLine("HERE");
+            Console.WriteLine(reader["id"]);
+
+            int user_id = Convert.ToInt32(reader["id"]);
+
+            reader.Close();
+
+            return user_id;
             
         }//END OF pickUser
 
@@ -77,7 +90,7 @@ namespace ClassLibrary1
             return quizChoice;
         }//END OF pickQuiz
 
-        public void askQuestions(int quizChoice)
+        public void askQuestions(int quizChoice, int userID)
         {
             SqlConnection connection = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed\ClassLibrary1\Database1.mdf");
             connection.Open();
@@ -85,7 +98,7 @@ namespace ClassLibrary1
             command = new SqlCommand($"SELECT * FROM Questions WHERE quiz_id = {quizChoice}", connection);
             reader = command.ExecuteReader();
 
-            List<int> results = new List<int>();
+            //List<int> results = new List<int>();
 
             if (reader.HasRows)
             {
@@ -100,19 +113,18 @@ namespace ClassLibrary1
                     Console.Write("Put in the number of your answer:   ");
                     int userAnswer = Convert.ToInt32(Console.ReadLine());
                     
-                    results.Add(userAnswer);
-                    //storeAnswers(userAnswer);
+                    //results.Add(userAnswer);
+                    storeAnswers(userAnswer, userID);
                 }
-                
             }
 
             //Tallies up the result and picks the highest occurring one
-            int finalResult = results.GroupBy(x => x)
-                                        .OrderByDescending(x => x.Count())
-                                        .First().Key;
-            Console.WriteLine(finalResult);
+            //int finalResult = results.GroupBy(x => x)
+            //                            .OrderByDescending(x => x.Count())
+            //                            .First().Key;
+            //Console.WriteLine(finalResult);
 
-            showResults(finalResult);
+            showResults(userID);
 
             reader.Close();
             connection.Close();
@@ -140,31 +152,46 @@ namespace ClassLibrary1
         }//END OF displayAnswers
         
 
-        public void storeAnswers(int userAnswer)
+        public void storeAnswers(int userAnswer, int userID)
         {
             SqlConnection connection = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed\ClassLibrary1\Database1.mdf");
             connection.Open();
 
             //command = new SqlCommand($"SELECT * FROM Answers JOIN Result ON Answers.result_id = Results.id", connection);
-            command = new SqlCommand($"INSERT INTO ");
-            reader = command.ExecuteReader();
-
-
+            command = new SqlCommand($"INSERT INTO UserAnswers (user_id, answer_id) VALUES ({userID}, {userAnswer})", connection);
+            SqlDataReader storeAnswers = command.ExecuteReader();
+            storeAnswers.Close();
+            //reader.Close();
         }//END OF storeAnswers
 
-        public void showResults(int finalResult)
+        public void showResults(int userID)
         {
             SqlConnection connection = new SqlConnection(@"Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=C:\Users\WhitneyW\Documents\Visual Studio 2015\Projects\BuzzFeed\ClassLibrary1\Database1.mdf");
             connection.Open();
 
-            command = new SqlCommand($"SELECT * FROM Results", connection);
+            command = new SqlCommand($"SELECT TOP 1 results.id, Count(*) AS Total FROM UserAnswers JOIN answers ON answers.id = useranswers.answer_id JOIN results ON results.id = answers.result_id WHERE user_id = {userID} GROUP BY results.id ORDER BY Total DESC", connection);
+            reader = command.ExecuteReader();
+            reader.Read();
+            string result_id = reader["id"].ToString();
+            reader.Close();
+
+            command = new SqlCommand($"SELECT * FROM Results WHERE id={result_id}", connection);
+            reader = command.ExecuteReader();
+            reader.Read();
+            Console.WriteLine("The results are in!");
+            Console.WriteLine(reader["Title"]);
+            Console.WriteLine(reader["Text"]);
+            reader.Close();
+
+            /*
+            command = new SqlCommand($"SELECT * FROM Results WHERE id = {finalResult}", connection);
             reader = command.ExecuteReader();
 
             Console.WriteLine($"{reader["Title"]}\n   {reader["Text"]}");
 
             reader.Close();
             connection.Close();
-
+            */
 
         }//END OF showResults
     }

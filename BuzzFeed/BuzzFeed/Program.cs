@@ -19,26 +19,29 @@ namespace BuzzFeed3
                 QuizClass useClass = new QuizClass();
                 Console.WriteLine("Do you want to take a (Q)uiz or e(X)it?");
                 string answer = Console.ReadLine().ToUpper();
+                
 
                 if (answer == "Q")
                 {
                     //get the username
                     Console.WriteLine("Do you want to create a (N)ew user or choose an (E)xisting user?");
                     string kindOfuser = Console.ReadLine().ToUpper();
+                    int userID = 0;
 
                     if (kindOfuser == "N") //Making a new user
                     {
                         Console.WriteLine("What is the name that you would like to use?");
                         string newUserName = Console.ReadLine();
-                        useClass.makeNewUser(newUserName);
+                        userID = useClass.makeNewUser(newUserName);
                     }
                     else if (kindOfuser == "E")  //using an exiting user  STILL need to work on associating the current user to the quiz
                     {
                         Console.WriteLine("Which user would you like to use?");
                         useClass.displayUsers();
                         Console.Write("What is the number of the user you want to use?   ");
-                        int userNumberChoice = Convert.ToInt32(Console.ReadLine());
-                        useClass.pickUser(userNumberChoice);
+                        //int userNumberChoice = Convert.ToInt32(Console.ReadLine());
+                        //userID = useClass.pickUser(userNumberChoice);
+                        userID = Convert.ToInt32(Console.ReadLine());
                     }
                     else
                     {
@@ -48,7 +51,7 @@ namespace BuzzFeed3
                     Console.WriteLine("What quiz would you like to take?"); //let the user pick what quiz they want
                     int userQuizChoice = useClass.pickQuiz();
 
-                    useClass.askQuestions(userQuizChoice);
+                    useClass.askQuestions(userQuizChoice, userID);
 
 
                 }//END OF Q
