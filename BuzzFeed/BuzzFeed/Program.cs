@@ -39,8 +39,6 @@ namespace BuzzFeed3
                         Console.WriteLine("Which user would you like to use?");
                         useClass.displayUsers();
                         Console.Write("What is the number of the user you want to use?   ");
-                        //int userNumberChoice = Convert.ToInt32(Console.ReadLine());
-                        //userID = useClass.pickUser(userNumberChoice);
                         userID = Convert.ToInt32(Console.ReadLine());
                     }
                     else
